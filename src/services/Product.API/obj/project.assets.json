@@ -5119,19 +5119,6 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
-      },
-      "EventBus/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "1.1.0"
-        },
-        "compile": {
-          "bin/placeholder/EventBus.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EventBus.dll": {}
-        }
       }
     }
   },
@@ -13285,20 +13272,15 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
-    },
-    "EventBus/1.0.0": {
-      "type": "project",
-      "path": "../EventBusLib/EventBusLib.csproj",
-      "msbuildProject": "../EventBusLib/EventBusLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Autofac.Extensions.DependencyInjection >= 4.2.0",
-      "EventBus >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.0",
+      "Swashbuckle.AspNetCore >= 1.1.0"
     ]
   },
   "packageFolders": {
@@ -13311,11 +13293,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Product.API\\Product.API.csproj",
+      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Product.API\\Product.API.csproj",
       "projectName": "Product.API",
-      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Product.API\\Product.API.csproj",
+      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Product.API\\Product.API.csproj",
       "packagesPath": "C:\\Users\\dben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Product.API\\obj\\",
+      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Product.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13333,11 +13315,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\EventBusLib\\EventBusLib.csproj": {
-              "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\EventBusLib\\EventBusLib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -13361,6 +13339,10 @@
             "target": "Package",
             "version": "2.0",
             "autoReferenced": true
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "1.1.0"
           },
           "Microsoft.AspNetCore.All": {
             "target": "Package",

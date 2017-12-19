@@ -5761,11 +5761,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\EventBusLib\\EventBusLib.csproj",
+      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\buildingblocks\\EventBusLib\\EventBusLib.csproj",
       "projectName": "EventBus",
-      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\EventBusLib\\EventBusLib.csproj",
+      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\buildingblocks\\EventBusLib\\EventBusLib.csproj",
       "packagesPath": "C:\\Users\\dben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\EventBusLib\\obj\\",
+      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\buildingblocks\\EventBusLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

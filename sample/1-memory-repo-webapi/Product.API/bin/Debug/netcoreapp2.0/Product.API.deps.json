@@ -24,10 +24,10 @@
       "Product.API/1.0.0": {
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": "4.2.0",
-          "EventBus": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.NETCore.App": "2.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.0",
+          "Swashbuckle.AspNetCore": "1.1.0"
         },
         "runtime": {
           "Product.API.dll": {}
@@ -4140,17 +4140,6 @@
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
       },
-      "EventBus/1.0.0": {
-        "dependencies": {
-          "Swashbuckle.AspNetCore": "1.1.0"
-        },
-        "runtime": {
-          "EventBus.dll": {}
-        },
-        "compile": {
-          "EventBus.dll": {}
-        }
-      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6504,11 +6493,6 @@
       "sha512": "sha512-W6ZZ0/o7+3Qb77mRAQyLjPudHG3OMeeQ4p9yY13PUdJArmRCx2cLMm5F4tpIjJXxzHC0ew0oK7DMDGILMdfCnw==",
       "path": "windowsazure.storage/8.1.4",
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
-    },
-    "EventBus/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Microsoft.NETCore.App/2.0.0": {
       "type": "package",

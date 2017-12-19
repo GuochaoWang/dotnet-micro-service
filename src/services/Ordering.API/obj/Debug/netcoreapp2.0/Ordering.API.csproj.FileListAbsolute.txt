@@ -8,3 +8,14 @@ c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcorea
 c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfo.cs
 c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.dll
 c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.pdb
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.deps.json
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.json
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.dev.json
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.pdb
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csprojResolveAssemblyReference.cache
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csproj.CoreCompileInputs.cache
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfoInputs.cache
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfo.cs
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.dll
+C:\Users\dben\source\repos\MicroServiceStructure\dotnet-micro-service\src\services\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.pdb

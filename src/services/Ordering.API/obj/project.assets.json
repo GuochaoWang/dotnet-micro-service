@@ -12543,11 +12543,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Ordering.API\\Ordering.API.csproj",
+      "projectUniqueName": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Ordering.API\\Ordering.API.csproj",
       "projectName": "Ordering.API",
-      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Ordering.API\\Ordering.API.csproj",
+      "projectPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Ordering.API\\Ordering.API.csproj",
       "packagesPath": "C:\\Users\\dben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\Ordering.API\\obj\\",
+      "outputPath": "C:\\Users\\dben\\source\\repos\\MicroServiceStructure\\dotnet-micro-service\\src\\services\\Ordering.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
