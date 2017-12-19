@@ -1,0 +1,9 @@
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\bin\Debug\netstandard2.0\EventBus.deps.json
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\bin\Debug\netstandard2.0\EventBus.dll
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\bin\Debug\netstandard2.0\EventBus.pdb
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBusLib.csprojResolveAssemblyReference.cache
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBusLib.csproj.CoreCompileInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBusLib.AssemblyInfoInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBusLib.AssemblyInfo.cs
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBus.dll
+c:\users\dben\source\repos\MicroServiceStructure\EventBusLib\obj\Debug\netstandard2.0\EventBus.pdb

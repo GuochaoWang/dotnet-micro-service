@@ -1,0 +1,10 @@
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.deps.json
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.json
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.runtimeconfig.dev.json
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.dll
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\bin\Debug\netcoreapp2.0\Ordering.API.pdb
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.csproj.CoreCompileInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfoInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.AssemblyInfo.cs
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.dll
+c:\users\dben\source\repos\MicroServiceStructure\Ordering.API\obj\Debug\netcoreapp2.0\Ordering.API.pdb

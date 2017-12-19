@@ -1,0 +1,13 @@
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\Product.API.deps.json
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\Product.API.runtimeconfig.json
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\Product.API.runtimeconfig.dev.json
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\Product.API.dll
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\Product.API.pdb
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.csprojResolveAssemblyReference.cache
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.csproj.CoreCompileInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.AssemblyInfoInputs.cache
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.AssemblyInfo.cs
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.dll
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\obj\Debug\netcoreapp2.0\Product.API.pdb
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\EventBus.dll
+c:\users\dben\source\repos\MicroServiceStructure\Product.API\bin\Debug\netcoreapp2.0\EventBus.pdb
